@@ -1,0 +1,19 @@
+c:\users\77077\documents\visual studio 2017\Projects\StreamsHomeWorkSecondTask\StreamsHomeWorkSecondTask\bin\Debug\StreamsHomeWorkSecondTask.exe.config
+c:\users\77077\documents\visual studio 2017\Projects\StreamsHomeWorkSecondTask\StreamsHomeWorkSecondTask\bin\Debug\StreamsHomeWorkSecondTask.exe
+c:\users\77077\documents\visual studio 2017\Projects\StreamsHomeWorkSecondTask\StreamsHomeWorkSecondTask\bin\Debug\StreamsHomeWorkSecondTask.pdb
+c:\users\77077\documents\visual studio 2017\Projects\StreamsHomeWorkSecondTask\StreamsHomeWorkSecondTask\obj\Debug\StreamsHomeWorkSecondTask.csprojResolveAssemblyReference.cache
+c:\users\77077\documents\visual studio 2017\Projects\StreamsHomeWorkSecondTask\StreamsHomeWorkSecondTask\obj\Debug\StreamsHomeWorkSecondTask.exe
+c:\users\77077\documents\visual studio 2017\Projects\StreamsHomeWorkSecondTask\StreamsHomeWorkSecondTask\obj\Debug\StreamsHomeWorkSecondTask.pdb
+C:\Users\77077\Desktop\FileSystemHomeWork\2\StreamsHomeWorkSecondTask\bin\Debug\StreamsHomeWorkSecondTask.exe.config
+C:\Users\77077\Desktop\FileSystemHomeWork\2\StreamsHomeWorkSecondTask\bin\Debug\StreamsHomeWorkSecondTask.exe
+C:\Users\77077\Desktop\FileSystemHomeWork\2\StreamsHomeWorkSecondTask\bin\Debug\StreamsHomeWorkSecondTask.pdb
+C:\Users\77077\Desktop\FileSystemHomeWork\2\StreamsHomeWorkSecondTask\obj\Debug\StreamsHomeWorkSecondTask.csprojResolveAssemblyReference.cache
+C:\Users\77077\Desktop\FileSystemHomeWork\2\StreamsHomeWorkSecondTask\obj\Debug\StreamsHomeWorkSecondTask.exe
+C:\Users\77077\Desktop\FileSystemHomeWork\2\StreamsHomeWorkSecondTask\obj\Debug\StreamsHomeWorkSecondTask.pdb
+C:\Users\User\Desktop\FileSystemHomeWork\2\StreamsHomeWorkSecondTask\bin\Debug\StreamsHomeWorkSecondTask.exe.config
+C:\Users\User\Desktop\FileSystemHomeWork\2\StreamsHomeWorkSecondTask\bin\Debug\StreamsHomeWorkSecondTask.exe
+C:\Users\User\Desktop\FileSystemHomeWork\2\StreamsHomeWorkSecondTask\bin\Debug\StreamsHomeWorkSecondTask.pdb
+C:\Users\User\Desktop\FileSystemHomeWork\2\StreamsHomeWorkSecondTask\obj\Debug\StreamsHomeWorkSecondTask.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FileSystemHomeWork\2\StreamsHomeWorkSecondTask\obj\Debug\StreamsHomeWorkSecondTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FileSystemHomeWork\2\StreamsHomeWorkSecondTask\obj\Debug\StreamsHomeWorkSecondTask.exe
+C:\Users\User\Desktop\FileSystemHomeWork\2\StreamsHomeWorkSecondTask\obj\Debug\StreamsHomeWorkSecondTask.pdb

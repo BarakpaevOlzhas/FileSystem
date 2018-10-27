@@ -1,0 +1,13 @@
+c:\users\77077\documents\visual studio 2017\Projects\StreamsHomeWorkFirstTask\StreamsHomeWorkFirstTask\bin\Debug\StreamsHomeWorkFirstTask.exe.config
+c:\users\77077\documents\visual studio 2017\Projects\StreamsHomeWorkFirstTask\StreamsHomeWorkFirstTask\bin\Debug\StreamsHomeWorkFirstTask.exe
+c:\users\77077\documents\visual studio 2017\Projects\StreamsHomeWorkFirstTask\StreamsHomeWorkFirstTask\bin\Debug\StreamsHomeWorkFirstTask.pdb
+c:\users\77077\documents\visual studio 2017\Projects\StreamsHomeWorkFirstTask\StreamsHomeWorkFirstTask\obj\Debug\StreamsHomeWorkFirstTask.csprojResolveAssemblyReference.cache
+c:\users\77077\documents\visual studio 2017\Projects\StreamsHomeWorkFirstTask\StreamsHomeWorkFirstTask\obj\Debug\StreamsHomeWorkFirstTask.exe
+c:\users\77077\documents\visual studio 2017\Projects\StreamsHomeWorkFirstTask\StreamsHomeWorkFirstTask\obj\Debug\StreamsHomeWorkFirstTask.pdb
+C:\Users\User\Desktop\FileSystemHomeWork\1\StreamsHomeWorkFirstTask\bin\Debug\StreamsHomeWorkFirstTask.exe.config
+C:\Users\User\Desktop\FileSystemHomeWork\1\StreamsHomeWorkFirstTask\bin\Debug\StreamsHomeWorkFirstTask.exe
+C:\Users\User\Desktop\FileSystemHomeWork\1\StreamsHomeWorkFirstTask\bin\Debug\StreamsHomeWorkFirstTask.pdb
+C:\Users\User\Desktop\FileSystemHomeWork\1\StreamsHomeWorkFirstTask\obj\Debug\StreamsHomeWorkFirstTask.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FileSystemHomeWork\1\StreamsHomeWorkFirstTask\obj\Debug\StreamsHomeWorkFirstTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FileSystemHomeWork\1\StreamsHomeWorkFirstTask\obj\Debug\StreamsHomeWorkFirstTask.exe
+C:\Users\User\Desktop\FileSystemHomeWork\1\StreamsHomeWorkFirstTask\obj\Debug\StreamsHomeWorkFirstTask.pdb
